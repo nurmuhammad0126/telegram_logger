@@ -4,7 +4,7 @@ version: 0.0.1
 homepage: https://github.com/nurmuhammad0126/telegram_logger
 repository: https://github.com/nurmuhammad0126/telegram_logger
 issue_tracker: https://github.com/nurmuhammad0126/telegram_logger/issues
-documentation: https://github.com/nurmuhammad0126/telegram_loggerr#readme
+documentation: https://github.com/nurmuhammad0126/telegram_logger#readme
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -29,7 +29,3 @@ topics:
   - error-reporting
   - debugging
   - monitoring
-  - screenshot
-
-# funding:
-#   - https://github.com/sponsors/yourusername
