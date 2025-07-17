@@ -1,6 +1,6 @@
 name: telegram_logger
 description: A Flutter package for sending error reports and logs to Telegram with optional screenshots. Perfect for debugging and monitoring your Flutter applications.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/nurmuhammad0126/telegram_logger
 repository: https://github.com/nurmuhammad0126/telegram_logger
 issue_tracker: https://github.com/nurmuhammad0126/telegram_logger/issues
