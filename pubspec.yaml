@@ -13,8 +13,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
-  screenshot: ^2.1.0
+  http: ^1.4.0
+  screenshot: ^3.0.0
 
 dev_dependencies:
   flutter_test:
